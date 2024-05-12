@@ -14,5 +14,3 @@ Exp 5 : Spark
 Exp 6 : Hive
 
 Exp 7 : HBase
-
-Exp 8 : AWS
